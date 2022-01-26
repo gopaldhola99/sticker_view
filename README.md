@@ -6,8 +6,6 @@ A Flutter plugin to rotate, resize, move, delete text, photo or any other widget
 
 <br>
 
-![](https://github.com/gopaldhola99/sticker_view/blob/main/example/assets/sticker_view.gif)
-
 ## Available Features
 
 
