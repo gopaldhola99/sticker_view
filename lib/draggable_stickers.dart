@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'draggable_resizable.dart';
-import 'gstick_plugin.dart';
+import 'stickerview.dart';
 
 class DraggableStickers extends StatefulWidget {
   //List of stickers (elements)

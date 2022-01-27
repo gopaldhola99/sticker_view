@@ -1,7 +1,8 @@
 name: sticker_view
-description: A Flutter plugin to rotate, resize, move, delete text, photo or any other widget.
+description: A Flutter plugin to rotate, resize, move, delete any text, photo or other widget.
 version: 0.0.1
-homepage: 
+homepage: https://github.com/gopaldhola99/sticker_view/blob/main/example/lib/main.dart
+repository: https://github.com/gopaldhola99/sticker_view
 
 environment:
   sdk: ">=2.15.1 <3.0.0"

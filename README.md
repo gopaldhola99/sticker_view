@@ -1,12 +1,10 @@
 # sticker_view
 
-A Flutter plugin to rotate, resize, move, delete text, photo or any other widget.
+A Flutter plugin to rotate, resize, move, delete any text, image or any other widget.
 
 ![](https://github.com/gopaldhola99/sticker_view/blob/main/example/assets/sticker_view.gif)
 
 <br>
-
-![](https://github.com/gopaldhola99/sticker_view/blob/main/example/assets/sticker_view.gif)
 
 ## Available Features
 
@@ -65,6 +63,9 @@ Sample code to integrate can be found in [example/lib/main.dart](example/lib/mai
 
 
 
+
+***
+
 ### :heart:  Found this project useful?
 
 If you found this project useful, then please consider giving it a :star:  on Github and sharing it with your friends via social media.
@@ -78,6 +79,4 @@ If you found this project useful, then please consider giving it a :star:  on Gi
 >>>>>>> 8deb8d8fd1809d7a6a317c1ab8975edeb54d8d75
 The project is open to public contribution. Please feel very free to contribute.
 Experienced an issue or want to report a bug? Please, [report it here](https://github.com/gopaldhola99/sticker_view/issues). Remember to be as descriptive as possible.
-
----
 

@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter/material.dart';
-import 'package:sticker_view/gstick_plugin.dart';
+import 'package:sticker_view/stickerview.dart';
 
 void main() {
   runApp(const MyApp());
