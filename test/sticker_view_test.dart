@@ -1,6 +1,7 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-
 
 void main() {
   const MethodChannel channel = MethodChannel('sticker_view');
