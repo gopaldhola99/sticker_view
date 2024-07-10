@@ -1,4 +1,3 @@
-## 0.0.3
+## 0.0.4
 
-- Fixed minor issue
-- Improved performance
+* Fixed issues

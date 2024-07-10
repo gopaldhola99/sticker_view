@@ -1,5 +1,3 @@
-// ignore_for_file: use_super_parameters, library_private_types_in_public_api, unused_element
-
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
@@ -159,6 +157,7 @@ class _DraggableResizableState extends State<DraggableResizable> {
         //   onUpdate();
         // }
 
+        // ignore: unused_element
         void onDragTopRight(Offset details) {
           final mid = (details.dx + (details.dy * -1)) / 2;
           final newHeight = math.max(size.height + (2 * mid), 0.0);
@@ -177,6 +176,7 @@ class _DraggableResizableState extends State<DraggableResizable> {
           onUpdate();
         }
 
+        // ignore: unused_element
         void onDragBottomLeft(Offset details) {
           final mid = ((details.dx * -1) + details.dy) / 2;
 
@@ -430,6 +430,7 @@ class _ResizePoint extends StatelessWidget {
       {Key? key,
       required this.onDrag,
       required this.type,
+      // ignore: unused_element
       this.onScale,
       this.iconData})
       : super(key: key);
