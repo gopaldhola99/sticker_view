@@ -73,10 +73,5 @@ If you found this project useful, then please consider giving it a :star:  on Gi
 =======
 
 
-<br>
-****
-## :🪄: Contributing, :disappointed: Issues and :bug: Bug Reports
->>>>>>> 8deb8d8fd1809d7a6a317c1ab8975edeb54d8d75
-The project is open to public contribution. Please feel very free to contribute.
-Experienced an issue or want to report a bug? Please, [report it here](https://github.com/gopaldhola99/sticker_view/issues). Remember to be as descriptive as possible.
+Contributions are welcome! Feel free to submit a pull request or open an issue for any feature requests or bugs, [Create a Ticket](https://github.com/gopaldhola99/sticker_view/issues).
 
